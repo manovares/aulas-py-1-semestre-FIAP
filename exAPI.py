@@ -23,3 +23,5 @@ while True:
 
     except Exception as e:
         print(f"\n[ERROR] Ocorreu um erro: {e}")
+
+        
